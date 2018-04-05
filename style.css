@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-weight: 400
+}
+
+body {
+	background: #fcfcfc;
+	color: #202020;
+	font-family: 'Arial', sans-serif;
+	font-size: 18px;
+	line-height: 1.2;
+	text-align: justify
+}
+
+.wrapper {
+	max-width: 70%;
+	margin: 0 auto;
+}
+
+p {
+	margin: 0 0 15px
+}
+
+h1 {
+	margin: 50px 0 25px
+}
+
+section {
+	padding: 50px 25px
+}
+
+.bg-odd {
+	background: #ddd
+}
+
+.bg-even {
+	background: #eee
+}
+
+h3 {
+	margin: 10px 0;
+	text-align: center
+}
+.weird{
+	background: #ffd8ff;
+	color: purple
+}
