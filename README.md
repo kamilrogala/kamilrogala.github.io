@@ -7,7 +7,7 @@ One handed coder from Poland.
 Just a code maniac, nothing special.
 
 Check my blog (in polish language at this commit time):
-[![KamilRogala.IT](http://kamilrogala.it/images/git_logo.png)](https://kamilrogala.it)
+[![KamilRogala.IT](https://kamilrogala.it/images/git_logo.png)](https://kamilrogala.it)
 
 Check also [my GitHub](https://github.com/kamilrogala/)
 
