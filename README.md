@@ -1,95 +1,60 @@
-# First heading test
-## Second heading
-### Third heading
-[KamilRogala.IT](https://kamilrogala.it)- check my blog (in polish language at this commit time)
+# Kamil Rogala
 
-Some section
---------------------------------------
+One handed coder from Poland.
 
-- list
-- list
-- list
+## About me
 
-1. list
-2. list
-3. list
+Just a code maniac, nothing special.
+Check my blog (in polish language at this commit time)
 
-- [ ] List
-- [ ] List
-- [x] List
+[![KamilRogala.IT](http://kamilrogala.it/images/git_logo.png)](https://kamilrogala.it)
 
-Some other section
---------------------------------------
-**Some bolded stuff**
-**Some bolded stuff**
-**Some bolded stuff**
+## My skills
+### Technical skills
 
-_Some italic stuff_
-_Some italic stuff_
-_Some italic stuff_
+**pure code:**
+- HTML5
+- CSS3
+- RWD
+- JavaScript
+- PHP
+- MySQL
 
-Some another section
---------------------------------------
+**CSS preprocessors:**
+- SASS
+- LESS
 
-> My very stupid quote
+**CSS Frameworks:**
+- Bootstrap
+- Materialize
+- Bulma
 
-> Quote of my dog
+**CMS**
+- Joomla
+- Wordpress
 
-> random Stuff
+**JS Frameworks and libraries**
+- jQuery
+- NodeJS
+- Vue.js
 
-Lets code!
+**Tools/Technology/Other Stuff:**
+- gulp.js
+- Ajax
 
-```js
-const gulp = require('gulp');
-const sass = require('gulp-sass');
-const sourcemaps = require('gulp-sourcemaps');
-const autoprefixer = require('gulp-autoprefixer');
-const cleanCSS = require('gulp-clean-css');
-const uglify = require('gulp-uglify');
-const concat = require('gulp-concat');
+### Things I want to master
+- [ ] SASS
+- [ ] JavaScript
+- [ ] Materialize
+- [ ] NodeJS
+- [ ] Vue.js
 
-gulp.task('default', ['sass'], () => {
-  console.log('poszlo');
-});
-
-gulp.task('uglify', () => {
-  return gulp.src('./src/js/**/*.js')
-  .pipe(concat('script.js'))
-  .pipe(uglify())
-  .pipe(gulp.dest('./dist/js'));
-});
-gulp.task('concaar', () => {});
-gulp.task('prefix', () => {});
-
-gulp.task('css', () => {
-  gulp.src('./src/css/**/*.css')
-    .pipe(concat('style.css'))
-    .pipe(cleanCSS())
-    .pipe(gulp.dest('./dist/css'))
-});
-
-gulp.task('sass', () => {
-  console.log('odpalam sass')
-  return gulp.src('./src/scss/**/*.scss')
-    .pipe(sourcemaps.init())
-    .pipe(sass().on('error', sass.logError))
-    .pipe(autoprefixer({
-      browsers: ['last 70 versions']
-    }))
-    .pipe(sourcemaps.write())
-    .pipe(gulp.dest('./src/css'));
-});
-
-gulp.watch('./src/scss/**/*.scss', ['sass']);
-gulp.watch('./src/css/**/*.css', ['css']);
-gulp.watch('./src/js/**/*.js', ['uglify']);
-```
-
-Yet one more section
---------------------------------------
-
-Just trying more stuff
-
-@kamilrogala
-
-#3588 
+### Thing I want to learn
+- [ ] React
+- [ ] Angular
+- [ ] Ember
+- [ ] Python
+- [ ] Machine learning
+- [ ] Game development on NodeJS
+- [ ] Game development with Unity
+- [ ] C#
