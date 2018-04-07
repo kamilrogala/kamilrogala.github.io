@@ -5,14 +5,14 @@ One handed coder from Poland.
 ## About me
 
 Just a code maniac, nothing special.
-Check my blog (in polish language at this commit time)
 
+Check my blog (in polish language at this commit time):
 [![KamilRogala.IT](http://kamilrogala.it/images/git_logo.png)](https://kamilrogala.it)
 
 ## My skills
 ### Technical skills
 
-**pure code:**
+**Pure code:**
 - HTML5
 - CSS3
 - RWD
@@ -40,7 +40,7 @@ Check my blog (in polish language at this commit time)
 
 **Tools/Technology/Other Stuff:**
 - gulp.js
-- Ajax
+- AJAX
 
 ### Things I want to master
 - [ ] SASS
