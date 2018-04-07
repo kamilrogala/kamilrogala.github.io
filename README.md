@@ -17,7 +17,6 @@ Check also [my GitHub](https://github.com/kamilrogala/)
 **Pure code:**
 - HTML5
 - CSS3
-- RWD
 - JavaScript
 - PHP
 - MySQL
@@ -43,6 +42,7 @@ Check also [my GitHub](https://github.com/kamilrogala/)
 **Tools/Technology/Other Stuff:**
 - gulp.js
 - AJAX
+- RWD
 
 ### Things I want to master
 - [ ] SASS
