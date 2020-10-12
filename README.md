@@ -1,7 +1,7 @@
 # Kamil Rogala
 One handed coder from Poland.
 
-## About me
+## ABOUT
 I'm frontend developer with practical knowledge about Javascript, HTML5, HTML5 API, CSS3, SASS. I also have experience with responsive web design, single page applications, progressive web apps, Gulp, Grunt and Webpack.
 
 Performance in web apps isn't unknown thing for me, coding websites for various web browsers either.
