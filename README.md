@@ -26,3 +26,5 @@ Joomla, testing UI/UX, LESS, Bootstrap, Materialize, Bulma, PWA, SPA
 [github.com/kamilrogala](https://github.com/kamilrogala)
 
 [kamilrogala.it](https://kamilrogala.it)
+
+[facebook.com/kamilrogala.it](https://www.facebook.com/kamilrogala.it)
