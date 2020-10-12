@@ -1,62 +1,26 @@
 # Kamil Rogala
-
 One handed coder from Poland.
 
 ## About me
+I'm frontend developer with practical knowledge about Javascript, HTML5, HTML5 API, CSS3, SASS. I also have experience with responsive web design, single page applications, progressive web apps, Gulp, Grunt and Webpack.
 
-Just a code maniac, nothing special.
+Performance in web apps isn't unknown thing for me, coding websites for various web browsers either.
 
-Check my blog (in polish language at this commit time):
-[![KamilRogala.IT](https://kamilrogala.it/images/git_logo.png)](https://kamilrogala.it)
+My current goal is master skill in Javascript and its frameworks.
 
-Check also [my GitHub](https://github.com/kamilrogala/)
+I like learning, coffee and clean code.
 
-## My skills
-### Technical skills
+## SKILLS
+### I work freely with:
+HTML5, CSS3, JavaScript, SASS, RWD
+### I work at a intermediate level with:
+Gulp, Grunt, GIT, jQuery
+### I'm still developing skills in:
+Typescript, Angular, Webpack, NodeJS
+### I worked with:
+Joomla, testing UI/UX, LESS, Bootstrap, Materialize, Bulma, PWA, SPA
 
-**Pure code:**
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
-
-**CSS preprocessors:**
-- SASS
-- LESS
-
-**CSS Frameworks:**
-- Bootstrap
-- Materialize
-- Bulma
-
-**CMS**
-- Joomla
-- Wordpress
-
-**JS Frameworks and libraries**
-- jQuery
-- NodeJS
-- Vue.js
-
-**Tools/Technology/Other Stuff:**
-- gulp.js
-- AJAX
-- RWD
-
-### Things I want to master
-- [ ] SASS
-- [ ] JavaScript
-- [ ] Materialize
-- [ ] NodeJS
-- [ ] Vue.js
-
-### Thing I want to learn
-- [ ] React
-- [ ] Angular
-- [ ] Ember
-- [ ] Python
-- [ ] Machine learning
-- [ ] Game development on NodeJS
-- [ ] Game development with Unity
-- [ ] C#
+## WWW
+[linkedin.com/in/kamil-rogala](https://linkedin.com/in/kamil-rogala)
+[github.com/kamilrogala](https://github.com/kamilrogala)
+[kamilrogala.it](https://kamilrogala.it)
