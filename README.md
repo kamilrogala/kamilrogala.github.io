@@ -22,5 +22,7 @@ Joomla, testing UI/UX, LESS, Bootstrap, Materialize, Bulma, PWA, SPA
 
 ## WWW
 [linkedin.com/in/kamil-rogala](https://linkedin.com/in/kamil-rogala)
+
 [github.com/kamilrogala](https://github.com/kamilrogala)
+
 [kamilrogala.it](https://kamilrogala.it)
